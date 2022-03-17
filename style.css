@@ -3,4 +3,9 @@ p{
 }
 h3{
     color: blue;
+    background-color: antiquewhite;
+}
+h1{
+    color: beige;
+    background-color: aliceblue;
 }
